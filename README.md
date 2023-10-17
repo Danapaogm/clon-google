@@ -10,10 +10,10 @@ ELk proyecto fue creado con **HTML Y CSS** Se trata del navegador mas usado: la 
 
 ##Contenido del proyecto
 1. Header 
-Sección muestra el menu y foto de perfil
+Sección muestra el menu y foto de perfil.
 2. Main
-Contiene los elementos centrales de el buscador
+Contiene los elementos centrales de el buscador.
 3. Footer
-Incluye hipervinculos al final de la página
+Incluye hipervinculos al final de la página.
 
 Realizado por Dana Paola Garcia ✨
